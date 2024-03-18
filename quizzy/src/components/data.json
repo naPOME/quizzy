@@ -1,0 +1,173 @@
+{
+  "questions": [
+    {
+      "question": "One of the following sources of water may make up the major or sole source of water in desert animals such as camels:",
+      "choices": [
+        "Drinking water",
+        "Metabolic water",
+        "Water from river",
+        "Water present in the feed",
+        "Water from rain"
+      ],
+      "answer": "Metabolic water"
+    },
+    {
+      "question": "The amount of water obtained from feedstuffs could be relatively high in:",
+      "choices": [
+        "Cereal",
+        "Straw",
+        "Alfalfa hay",
+        "Lush grass",
+        "Grass hay"
+      ],
+      "answer": "Lush grass"
+    },
+    {
+      "question": "Which of the following polysaccharides functions as energy storage in plants and animals, respectively?",
+      "choices": [
+        "Glycogen and starch",
+        "Starch and cellulose",
+        "Glycogen and cellulose",
+        "Starch and glycogen",
+        "Raffinose and glycogen"
+      ],
+      "answer": "Starch and glycogen"
+    },
+    {
+      "question": "The most common hexose in polysaccharides than the rest is:",
+      "choices": [
+        "Fructose",
+        "Galactose",
+        "Sucrose",
+        "Glucose",
+        "Lactose"
+      ],
+      "answer": "Glucose"
+    },
+    {
+      "question": "The polysaccharide most abundant in nature is:",
+      "choices": [
+        "Glucose",
+        "Starch",
+        "Cellulose",
+        "Glycogen"
+      ],
+      "answer": "Cellulose"
+    },
+    {
+      "question": "The disaccharide cellobiose is composed of the monosaccharide:",
+      "choices": [
+        "Glucose and galactose",
+        "Glucose and raffinose",
+        "Glucose and glucose",
+        "Fructose and galactose"
+      ],
+      "answer": "Glucose and glucose"
+    },
+    {
+      "question": "Which of the following carbohydrates do not belong to oligosaccharides?",
+      "choices": [
+        "Lactose",
+        "Cellobiose",
+        "Raffinose",
+        "Sucrose",
+        "Cellulose"
+      ],
+      "answer": "Cellulose"
+    },
+    {
+      "question": "Which of the following is not a metabolic role of carbohydrates?",
+      "choices": [
+        "Source of energy",
+        "Energy reserve",
+        "Synthesis of fat",
+        "Synthesis of essential amino acids"
+      ],
+      "answer": "Synthesis of essential amino acids"
+    },
+    {
+      "question": "The group of proteins which includes all enzymes, antigens, and those hormones which are protein is:",
+      "choices": [
+        "Fibrous protein",
+        "Phosphoprotein",
+        "Glycoprotein",
+        "Globular protein",
+        "Conjugated protein"
+      ],
+      "answer": "Globular protein"
+    },
+    {
+      "question": "A conjugated protein that contains a pigment as a prosthetic group is:",
+      "choices": [
+        "Glycoprotein",
+        "Lipoprotein",
+        "Chromoprotein",
+        "Phosphoprotein",
+        "Urea"
+      ],
+      "answer": "Chromoprotein"
+    },
+    {
+      "question": "Which of the following amino acids are not synthesized in the body in sufficient amount and hence are required in the diet?",
+      "choices": [
+        "Methionine",
+        "Lysine",
+        "Glutamic acids",
+        "Glycine",
+        "A and B"
+      ],
+      "answer": "A and B"
+    },
+    {
+      "question": "Which of the following amino acids are synthesized in the body in sufficient amount?",
+      "choices": [
+        "Glycine",
+        "Cysteine",
+        "Glutamine",
+        "Lysine",
+        "All except D"
+      ],
+      "answer": "All except D"
+    },
+    {
+      "question": "Birds excrete nitrogen in the form of:",
+      "choices": [
+        "Uric acid",
+        "Propionic acid",
+        "Ammonia",
+        "Lactic acid",
+        "Urea"
+      ],
+      "answer": "Uric acid"
+    },
+    {
+      "question": "Which of the following macromolecules is a simple lipid?",
+      "choices": [
+        "Waxes",
+        "Glycolipids",
+        "Phospholipids",
+        "Fats and oils"
+      ],
+      "answer": "Fats and oils"
+    },
+    {
+      "question": "Which of the following fatty acids is not a polyunsaturated fatty acid?",
+      "choices": [
+        "Linoleic",
+        "Oleic",
+        "Linolenic",
+        "Arachidonic"
+      ],
+      "answer": "Oleic"
+    },
+    {
+      "question": "Which of the following fatty acids has four double bonds?",
+      "choices": [
+        "Arachidonic",
+        "Oleic",
+        "Linolenic",
+        "Palmitoleic"
+      ],
+      "answer": "Arachidonic"
+    }
+  ]}
